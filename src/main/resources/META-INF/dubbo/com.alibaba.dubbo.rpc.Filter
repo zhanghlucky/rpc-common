@@ -1,0 +1,2 @@
+dubboConsumerContextFilter=com.hui.zhang.common.dubbo.DubboConsumerContextFilter
+dubboProviderContextFilter=com.hui.zhang.common.dubbo.DubboProviderContextFilter
